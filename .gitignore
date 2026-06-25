@@ -1,0 +1,11 @@
+# Executables
+*.exe
+
+# Object files
+*.o
+
+# VS Code settings
+.vscode/
+
+# MSYS2 crash dumps
+*.stackdump
