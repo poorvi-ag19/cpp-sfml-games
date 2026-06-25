@@ -1,7 +1,6 @@
-# 🎮 16 Games in C++ using SFML
+# 🎮 2D Arcade Games Collection | C++, SFML
 
-A collection of classic 2D games developed using **C++** and **SFML**.
-
+Developed a collection of 16 classic 2D arcade games using C++ and SFML, implementing game loops, collision detection, sprite rendering, event handling, animations, and object-oriented design principles
 ## Games Included
 
 - Arkanoid
